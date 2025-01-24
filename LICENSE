@@ -1,3 +1,26 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2025 [Tu Nombre o Nombre del Proyecto]
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+### Nota adicional sobre partes heredadas del proyecto
+Este proyecto incluye partes del código original basado en [Chirpy Starter](https://github.com/cotes2020/jekyll-theme-chirpy), que están licenciados bajo la **licencia MIT**:
+
 MIT License
 
 Copyright (c) 2021 Cotes Chung
@@ -19,3 +42,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+### Aclaración sobre derechos de las modificaciones
+Las modificaciones y contribuciones realizadas sobre la base del código original están licenciadas exclusivamente bajo **GPL 3.0**, lo que significa que:
+
+1. **Los derechos sobre las modificaciones son exclusivos de esta licencia (GPL 3.0):**
+   - Todo trabajo derivado o basado en las modificaciones realizadas estará cubierto por la GPL 3.0.
+   - Las condiciones de la licencia GPL 3.0 aplican únicamente a las contribuciones realizadas por [Tu Nombre o Nombre del Proyecto].
+
+2. **El código heredado de la plantilla original sigue bajo MIT:**
+   - El código original de la plantilla [Chirpy Starter](https://github.com/cotes2020/jekyll-theme-chirpy) continúa disponible bajo los términos de la licencia MIT.
+
+Las modificaciones realizadas no otorgan derechos adicionales sobre el código bajo GPL 3.0.
