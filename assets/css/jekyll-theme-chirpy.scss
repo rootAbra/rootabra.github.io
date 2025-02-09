@@ -1,0 +1,20 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+#sidebar #avatar {
+	width: 11.2rem;
+	height: 11.2rem;
+}
+
+img[alt="avatar"] {
+	width: 180px;
+	height: 180px;
+}
