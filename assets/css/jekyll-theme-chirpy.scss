@@ -18,3 +18,15 @@ img[alt="avatar"] {
 	width: 180px;
 	height: 180px;
 }
+
+/* Esto es para quitar el home del menú */
+
+.nav-item:first-child {
+  display: none !important;
+}
+
+/* Esto es para quitar categories.md del menú */
+
+a.nav-link[href="/categories/"] {
+  display: none !important;
+}
