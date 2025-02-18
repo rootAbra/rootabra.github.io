@@ -28,7 +28,7 @@ El propósito de este sitio web es **compartir conocimientos y experiencias** qu
 
 - 📜 **Blogs** sobre informática en general.
 - 🔎 **Writeups** con resoluciones de máquinas de pentesting.
-- 📂 **Proyectos** con proyectos que vaya realizando y publicando en GitHub.
+- 📂 **Proyectos** que vaya realizando y publicando en GitHub.
 
 ---
 
