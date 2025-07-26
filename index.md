@@ -14,11 +14,12 @@ title: Inicio
 
 ## 🚀 Formación en Ciberseguridad
 
-Mi camino en el **pentesting** comenzó gracias a **Marcelo Vázquez** (*S4vitar*), a través de su academia de ciberseguridad **Hack4u**. Ahora, estoy preparándome para obtener certificaciones reconocidas en la industria:
+Mi camino en el **hacking ético** comenzó gracias a **Marcelo Vázquez** (*S4vitar*), a través de su academia de ciberseguridad **Hack4u**. Ahora, estoy preparándome para obtener una certificación reconocida en la industria para afinar mi metodología y **flujo de trabajo**, y comenzar mi camino como próximo Bug Bounty Hunter:
 
-- 🎯 **eJPTv2** (*eLearnSecurity Junior Penetration Tester*) - INE (Actual objetivo)
-- 🎯 **PNPT** (*Practical Network Penetration Tester*) - TCM Security (Próximo objetivo)
-- 🎯 **OSCP** (*Offensive Security Certified Professional*) - Offensive Security (Meta a largo plazo)
+- 🎯 **CBBH** (*Certified Bug Bounty Hunter*) - HacktheBox (Actual objetivo)
+- 🎯 **HackerOne y Bugcrown** (*Plataformas de Bug Bounty*) - Encontrar mis primeros bountys remunerados (Próximo objetivo)
+
+Mi meta a largo plazo es poder adquirir el suficiente conocimiento y experiencia para poder desempeñarme en el mundo del Bug Bounty, y llegar a poder reportar hallazgos importantes en las plataformas mencionadas anteriormente.
 
 ---
 
