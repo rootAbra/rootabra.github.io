@@ -8,7 +8,7 @@ title: Inicio
 
 ## Abraham Darwich (rootAbra)
 
-¡Hola! Soy **Abraham Darwich**, también conocido como **rootAbra**. Me apasiona el mundo de la informática, especialmente en las áreas de **administración de sistemas operativos y redes**. Actualmente, estoy adentrándome en el fascinante mundo de la **ciberseguridad**, con un enfoque en el **pentesting (red team)**.
+¡Hola! Soy **Abraham Darwich**, también conocido como **rootAbra**. Me apasiona el mundo de la informática, especialmente en las áreas de **administración de sistemas operativos y redes**. Actualmente, estoy adentrándome en el fascinante mundo de la **ciberseguridad**, con un enfoque en el **Ethical Hacking**.
 
 ---
 
