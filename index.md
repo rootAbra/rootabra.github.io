@@ -14,7 +14,7 @@ title: Inicio
 
 ## 🚀 Formación en Ciberseguridad
 
-Mi camino en el **hacking ético** comenzó gracias a **Marcelo Vázquez** (*S4vitar*), a través de su academia de ciberseguridad **Hack4u**. Ahora, estoy preparándome para obtener una certificación reconocida en la industria para afinar mi `metodología`, `flujo de trabajo`, y comenzar mi camino como próximo Bug Bounty Hunter:
+Mi camino en el **hacking ético** comenzó gracias a **Marcelo Vázquez** (*S4vitar*), a través de su academia de ciberseguridad **Hack4u**. Ahora, estoy preparándome para obtener una certificación reconocida en la industria para afinar mi `metodología`, `flujo de trabajo`, **y comenzar mi camino como próximo Bug Bounty Hunter:**
 
 - 🎯 **CBBH** (*Certified Bug Bounty Hunter*) - Certificación de HacktheBox (Actual objetivo)
 - 🎯 **HackerOne y Bugcrown** (*Plataformas de Bug Bounty*) - Encontrar mis primeros bountys remunerados (Próximo objetivo)
