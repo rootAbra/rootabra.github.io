@@ -14,12 +14,9 @@ title: Inicio
 
 ## 🚀 Formación en Ciberseguridad
 
-Mi camino en el **hacking ético** comenzó gracias a **Marcelo Vázquez** (*S4vitar*), a través de su academia de ciberseguridad **Hack4u**. Ahora, estoy preparándome para obtener una certificación reconocida en la industria para afinar mi `metodología`, `flujo de trabajo`, **y comenzar mi camino como próximo Bug Bounty Hunter:**
-
-- 🎯 **CBBH** (*Certified Bug Bounty Hunter*) - Certificación de HacktheBox (Actual objetivo)
-- 🎯 **HackerOne y Bugcrown** (*Plataformas de Bug Bounty*) - Encontrar mis primeros bountys remunerados (Próximo objetivo)
-
-Mi meta a largo plazo es poder adquirir el suficiente conocimiento/experiencia para poder desempeñarme en Bug Bounty, y llegar a poder reportar hallazgos importantes en las plataformas mencionadas anteriormente.
+Mi trayectoria en el **hacking ético** comenzó de la mano de **Marcelo Vázquez** (_S4vitar_) y su academia **Hack4u**. Actualmente cuento con la certificación **CWES (Certified Web Exploitation Specialist)** de **HackTheBox** y sigo perfeccionando mi metodología y flujo de trabajo resolviendo entornos de entrenamiento ofensivo, lo que me permite consolidar técnicas de reconocimiento, explotación y post-explotación con un enfoque práctico y orientado a la mejora continua.
+<br><br>
+**Mi objetivo a largo plazo** es incorporarme al sector tecnológico, aplicar mis conocimientos para resolver problemas reales y contribuir al fortalecimiento de la seguridad en entornos profesionales.
 
 ---
 
@@ -43,15 +40,18 @@ El propósito de este sitio web es **compartir conocimientos y experiencias** qu
 
 **Lenguajes de Consultas:**
 - 🗄️ **SQL**
+- 🗄️ **NoSQL** *(nociones básicas)*
+- 🗂️ **JSON** *(nociones básicas)*
+
+**Tecnologías de maquetación web**
+- 🧱 **HTML**
+- 🎨 **CSS**
+- 📝 **Markdown**
 
 ---
 
 ## 🎓 Educación
 
 📚 **Estudios formalizados:**
-- 📌 **Ciclo Formativo de Grado Medio** - SMR (Sistemas Microinformáticos y Redes) *2021 - 2023*
 - 📌 **Ciclo Formativo de Grado Superior** - ASIR (Administración de Sistemas Informáticos en Red) *2023 - 2025*
-
----
-
-¡Espero que disfrutes el contenido de este sitio! 🚀
+- 📌 **Ciclo Formativo de Grado Medio** - SMR (Sistemas Microinformáticos y Redes) *2021 - 2023*
